@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <scm>
   	<!-- url>scm:git:git://github.com/wowcecilia/hw0-chenwan1.git</url> -->
-    <developerConnection>scm:gitscm:git:ssh://git@github.com:wowcecilia/hw0-chenwan1.git:https://github.com/wowcecilia/hw0-chenwan1.git</developerConnection>
+    <developerConnection>scm:git:ssh://git@github.com:wowcecilia/hw0-chenwan1.git:https://github.com/wowcecilia/hw0-chenwan1.git</developerConnection>
     <connection>scm:git:ssh://git@github.com:wowcecilia/hw0-chenwan1.git</connection>
   </scm>
   <repositories><repository>
