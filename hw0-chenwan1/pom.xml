@@ -5,8 +5,8 @@
   <version>0.0.1</version>
   <scm>
   	<!-- url>scm:git:git://github.com/wowcecilia/hw0-chenwan1.git</url> -->
-    <developerConnection>scm:git:https://wowcecilia@github.com/hw0-chenwan1.git</developerConnection>
-    <connection>scm:git:https://wowcecilia@github.com/hw0-chenwan1.git</connection>
+    <developerConnection>scm:git:git://github.com/wowcecilia/hw0-chenwan1.git</developerConnection>
+    <connection>scm:git:git://github.com/wowcecilia/hw0-chenwan1.git</connection>
   </scm>
   <repositories><repository>
       <id>deployment</id>
